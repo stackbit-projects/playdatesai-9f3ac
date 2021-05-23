@@ -2,9 +2,7 @@
 layout: home
 header:
   title: 
-  text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+  text: 
   action: # action button is optional
     label: Find Out More
     url: '#about'
