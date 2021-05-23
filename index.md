@@ -1,8 +1,8 @@
 ---
 layout: home
 header:
-  title: 
-  text: 
+  title: aaa
+  text: bbb
   action: # action button is optional
     label: Find Out More
     url: '#about'
